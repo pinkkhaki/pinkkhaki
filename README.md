@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a **block coding instructor** with a background in **education**. Currently, I'm focused on creating **everyday apps** and **simple games**.
+
+- 🌱 Continuously learning and exploring new ways to integrate **technology and education**.
+
